@@ -18,7 +18,7 @@ import Logger;
 class main{
     private static final Logger LOG = new Logger("Module name");
     
-    public static void main(String[] args) {
+    public main(String[] args) {
     	LOG.core("Logger: Core");
         LOG.info("Logger: Info");
         LOG.warn("Logger: Warn");
