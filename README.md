@@ -47,8 +47,6 @@ class main{
 
 ### Links!
 
-- [Python](python.org)
-
 - [Link to this project](https://github.com/SantaSpeen/Logger.Java)
 
 - [Author](https://vk.com/id370926160)
