@@ -15,7 +15,7 @@ Java:
 ```java
 import Logger;
 
-class main{
+public class main{
     private static final Logger LOG = new Logger("Module name");
     
     public main(String[] args) {
